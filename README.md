@@ -2,8 +2,6 @@
 
 ## Logo
 
-### Horizontal logo
-
 logo | png | svg | svg padding
 --- | --- |--- | ---
 <img src="LogoHorizontal.png" width="500px"/> | [LogoHorizontal.png](LogoHorizontal.png) | [LogoHorizontal.svg](LogoHorizontal.svg) | [LogoHorizontalPadding.svg](LogoHorizontalPadding.svg)
