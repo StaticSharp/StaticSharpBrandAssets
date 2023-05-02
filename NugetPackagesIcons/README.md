@@ -8,5 +8,6 @@ Package | Icon
 [StaticSharp.RoutingSg](https://www.nuget.org/packages/StaticSharp.RoutingSg) | <img src="RoutingSg.png" width="128px"/>
 [StaticSharp.RoutingSg.Attributes](https://www.nuget.org/packages/StaticSharp.RoutingSg.Attributes) | <img src="RoutingSg.Attributes.png" width="128px"/>
 [StaticSharp.RoslynSourceGeneratorLauncher](https://www.nuget.org/packages/StaticSharp.RoslynSourceGeneratorLauncher) | <img src="RoslynSourceGeneratorLauncher.png" width="128px"/>
+[StaticSharp.SvgIcons](https://www.nuget.org/packages/StaticSharp.SvgIcons) | <img src="SvgIcons.png" width="128px"/>
 
 
